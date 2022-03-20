@@ -1,2 +1,4 @@
 # veranda-blend
-Create feed of soccer games and where to watch them
+
+Feed of soccer games and where to watch them
+
